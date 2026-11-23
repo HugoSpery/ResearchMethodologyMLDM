@@ -1,0 +1,10 @@
+requests
+py7zr
+pandas
+xarray
+tqdm
+matplotlib
+basemap
+scipy
+pygam
+scikit-learn

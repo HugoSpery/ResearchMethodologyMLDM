@@ -1,6 +1,7 @@
-# Paper Link
+# Paper Links
 
-https://arxiv.org/pdf/2506.09254v2
+- Paper: https://arxiv.org/pdf/2506.09254v2
+- Github: https://github.com/sydney-machine-learning/cyclonedata-SST-GCM
 
 # 📄 Paper Overview
 
